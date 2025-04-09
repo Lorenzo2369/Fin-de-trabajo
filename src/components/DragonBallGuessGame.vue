@@ -302,7 +302,7 @@ h1 {
 }
 
 .game-over {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(1, 2, 14, 0.7);
   padding: 20px;
   border-radius: 15px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
