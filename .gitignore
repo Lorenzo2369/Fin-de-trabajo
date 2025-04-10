@@ -22,6 +22,4 @@ pnpm-debug.log*
 *.sln
 *.sw?
 node_modules
-[submodule "poke-guess"]
-    path = poke-guess
-    url = https://github.com/usuario/poke-guess.git
+
