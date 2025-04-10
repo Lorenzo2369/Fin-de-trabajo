@@ -1,4 +1,9 @@
-import { createApp } from "vue";
-import GameView from "./src/views/GameView.vue";
+const app = Vue.createApp({
+    data() {
+        return {
+            message: '¡Hola, Pokémon Adivinanza!'
+        };
+    }
+});
 
-createApp(GameView).mount("#app");
+app.mount('#app');
